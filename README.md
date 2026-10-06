@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This Python program simulates an **Operating System (OS) process lifecycle** using the **First-Come-First-Served (FCFS)** CPU scheduling algorithm. It demonstrates how processes transition through different states as they compete for CPU time!
+This Python program simulates an **Operating System (OS) process lifecycle** using the **First-Come-First-Served (FCFS)** CPU scheduling algorithm. It demonstrates how processes transition through different states as they compete for CPU time.
 
 ---
 
@@ -43,6 +43,7 @@ class Process:
 ---
 
 ## 📊 Execution Flow (State Diagram)
+The following diagram is an illustration of the whole process.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
