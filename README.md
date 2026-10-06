@@ -87,7 +87,7 @@ READY QUEUE:
     append()                 pop(0)
     (back)                   (front)
     
-Execution Order: P1 → P2 → P3 (FIFO - queue order)
+Execution Order: P1 → P2 → P3 (FIFO - queue order) The order starts from p1 and ends at p3
 ```
 
 ---
