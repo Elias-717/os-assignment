@@ -129,6 +129,7 @@ Time    Event                          State
 
 ### **Section 1: Initialization**
 
+
 ```python
 for p in processes:
     p.state = READY                 # Change state
@@ -217,7 +218,7 @@ P1 (io_required=True)         P2 (io_required=False)
 ### Advantages ✓
 - **Simple to implement** - Just use a queue
 - **Fair** - All processes get CPU time
-- **No starvation** - Processes will eventually run
+- **No starvation** - Processes will eventually run without errors theoratically.
 
 ### Disadvantages ✗
 - **Not optimal** - Long processes block short ones
