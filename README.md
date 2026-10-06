@@ -43,7 +43,11 @@ class Process:
 ---
 
 ## 📊 Execution Flow (State Diagram)
+<<<<<<< Updated upstream
 The following diagram is an illustration of the whole process.
+=======
+The following diagram explains the execution flow of the algorithm. 
+>>>>>>> Stashed changes
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
